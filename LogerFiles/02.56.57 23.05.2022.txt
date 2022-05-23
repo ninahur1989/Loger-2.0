@@ -1,0 +1,10 @@
+ время: 23.05.2022 14:56:57 тип Warning сообщение Action got this custom Exception Logger.BusinessException c результатом Skipped logic in method
+ время: 23.05.2022 14:56:57 тип Info сообщение  Start method: 
+ время: 23.05.2022 14:56:57 тип Error сообщение Action failed by a reason: System.Exception c результатом I broke a logic
+ время: 23.05.2022 14:56:57 тип Info сообщение  Start method: 
+ время: 23.05.2022 14:56:57 тип Error сообщение Action failed by a reason: System.Exception c результатом I broke a logic
+ время: 23.05.2022 14:56:57 тип Warning сообщение Action got this custom Exception Logger.BusinessException c результатом Skipped logic in method
+ время: 23.05.2022 14:56:57 тип Warning сообщение Action got this custom Exception Logger.BusinessException c результатом Skipped logic in method
+ время: 23.05.2022 14:56:57 тип Warning сообщение Action got this custom Exception Logger.BusinessException c результатом Skipped logic in method
+ время: 23.05.2022 14:56:57 тип Error сообщение Action failed by a reason: System.Exception c результатом I broke a logic
+ время: 23.05.2022 14:56:57 тип Warning сообщение Action got this custom Exception Logger.BusinessException c результатом Skipped logic in method

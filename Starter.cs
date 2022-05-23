@@ -13,7 +13,7 @@ namespace Logger
             Random random = new Random();
             Actions actions = new Actions();
 
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 10; i++)
             {
                 int r = random.Next(0, 3);
                 Result result = new Result();

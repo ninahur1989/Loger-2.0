@@ -19,6 +19,13 @@ namespace Logger
         {
         }
 
+        public Result(LogLevel status, Exception exception, DateTime dateTime)
+        {
+            Status = status;
+            Exception = exception;
+            DateTime = dateTime;
+        }
+
         public Result(LogLevel status, string message, DateTime dateTime)
         {
             Status = status;
@@ -30,5 +37,6 @@ namespace Logger
         public string Message { get; set; }
 
         public DateTime DateTime { get; set; }
+        public Exception Exception { get; set; }
     }
 }
